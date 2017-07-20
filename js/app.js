@@ -8,6 +8,7 @@
     setCurrent(window.location.hash)
   }
   window.onload = window.onhashchange
+  
   function setCurrent(url) {
     switch(url) {
       case '#shared':
