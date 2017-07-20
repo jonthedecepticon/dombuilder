@@ -1,0 +1,32 @@
+.navbar {
+  background: black;
+  color: white;
+  height: 50px;
+  text-align: center;
+}
+ul.menu {
+  background: gray;
+  position: fixed;
+  height: 100%;
+  margin: 0;
+}
+h6.navbar {
+  margin: 0;
+}
+.details {
+  float: right;
+  width: 200px;
+  border: 1px solid red;
+  height: 230px;
+  margin: 0;
+}
+ul.menu {
+  background: gray;
+  position: fixed;
+  height: 100%;
+  margin: 0;
+}
+.container {
+  padding-left: 100px;
+  display: inline-block;
+}
